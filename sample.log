@@ -1,0 +1,188 @@
+This is e-pTeX, Version 3.141592653-p3.9.0-210218-2.6 (utf8.euc) (TeX Live 2021) (preloaded format=platex 2021.7.14)  31 OCT 2024 10:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sample.tex
+(./sample.tex
+pLaTeX2e <2021-06-01>+2 (based on LaTeX2e <2021-06-01> patch level 1)
+L3 programming layer <2021-07-12>
+(/usr/local/texlive/2021/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
+\c@@paper=\count181
+(/usr/local/texlive/2021/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2020/09/30 v1.8f Standard pLaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 615.
+\toclineskip=\dimen154
+\@lnumwidth=\dimen155
+\bibindent=\dimen156
+\heisei=\count190
+)
+(./funinfosys.sty
+\suiheioffset=\skip49
+\hyodaioffset=\skip50
+
+*** FUN Graduation Study Midterm Report Style ***
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 107.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2021/03/18 v5.0j Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-07-12 L3 backend support: dvips
+\l__pdf_internal_box=\box67
+\g__pdf_backend_object_int=\count191
+\l__pdf_backend_content_box=\box68
+\l__pdf_backend_model_box=\box69
+\g__pdf_backend_annotation_int=\count192
+\g__pdf_backend_link_int=\count193
+\g__pdf_backend_link_sf_int=\count194
+)
+(./sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 49.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 49.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 52.
+
+Overfull \vbox (0.73932pt too high) has occurred while \output is active []
+
+
+[1
+
+
+]
+File: image/KadvsLabel.png Graphic file (type bmp)
+<image/KadvsLabel.png>
+
+Overfull \hbox (2.68666pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
+File: image/score.png Graphic file (type bmp)
+<image/score.png>
+
+Overfull \hbox (21.50697pt too wide) in paragraph at lines 107--137
+\JY1/mc/m/n/10.95 ト ークナイザ ー事前学習済モデル \OT1/cmr/m/n/10.95 bert-base
+-japanese-
+ []
+
+
+Overfull \hbox (6.27888pt too wide) in paragraph at lines 107--137
+\JY1/mc/m/n/10.95 分類した\OT1/cmr/m/n/10.95 .POS-I-TIVE,NEGATIVE,NEUTRAL \JY1/
+mc/m/n/10.95 を
+ []
+
+
+Overfull \vbox (0.73932pt too high) has occurred while \output is active []
+
+
+[2]
+File: image/k_positive.png Graphic file (type bmp)
+<image/k_positive.png>
+
+Overfull \hbox (26.83466pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+File: image/kadokawa.png Graphic file (type bmp)
+<image/kadokawa.png>
+
+Overfull \hbox (26.83466pt too wide) in paragraph at lines 163--164
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \vbox (0.73932pt too high) has occurred while \output is active []
+
+
+[3]
+Overfull \vbox (0.73932pt too high) has occurred while \output is active []
+
+
+[4
+
+] (./sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 1040 strings out of 480496
+ 15941 string characters out of 5899437
+ 328026 words of memory out of 5000000
+ 19111 multiletter control sequences out of 15000+600000
+ 414573 words of font info for 70 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,11n,66p,209b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on sample.dvi (4 pages, 21376 bytes).
